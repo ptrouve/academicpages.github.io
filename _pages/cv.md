@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-Ph. D in Signal and Image Processing, Ecole Centrale de Nantes, 2012
+Ph. D in Signal and Image Processing, Ecole Centrale de Nantes, (2012)
+Master Degree in Optical at the Institut d'Optique Graduate School (2009)
 
 Work experience
 ======
-
+Engineer of research at ONERA since 2012
   
 Skills
 ======
-* Skill 1
+Image processing, optical design, end-to-end design
 
 
 Publications
