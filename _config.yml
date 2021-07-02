@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pauline Trouvé-Peloux"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am an engineer of research at ONERA/DTIS/IVA since 2012"
   location         : "Palaiseau, France"
-  employer         :
+  employer         : "ONERA - the French Aerospace Lab"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=fyeBEk0AAAAJ"
   email            :
